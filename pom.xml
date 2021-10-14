@@ -8,13 +8,13 @@
 		<version>2.5.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>germansalas.test1</groupId>
-	<artifactId>proyectociclo3</artifactId>
+	<groupId>ciclo3_semana3</groupId>
+	<artifactId>reto3</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>proyectociclo3</name>
-	<description>proyecto web ciclo 3</description>
+	<name>reto3</name>
+	<description>Demo project for Spring Boot</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>11</java.version>
 	</properties>
 	<dependencies>
 		<dependency>

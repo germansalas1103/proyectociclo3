@@ -1,13 +1,13 @@
-package germansalas.test1.proyectociclo3;
+package ciclo3_semana3.reto3;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Proyectociclo3Application {
+public class Reto3Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Proyectociclo3Application.class, args);
+		SpringApplication.run(Reto3Application.class, args);
 	}
 
 }
