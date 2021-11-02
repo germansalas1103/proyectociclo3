@@ -13,9 +13,9 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>reto3</name>
 	<description>Desarrollo del Reto 3</description>
-	<properties>
+	<!--<properties>
 		<java.version>11</java.version>
-	</properties>
+	</properties>-->
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
